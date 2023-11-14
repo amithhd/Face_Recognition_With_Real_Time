@@ -11,12 +11,10 @@ This project implements face recognition with real-time capabilities using pytho
 - PC or Laptop
 - Web Cam
 - Python 3.7 or higher
-- OpenCV
-- cvzone
-- numpy
-- face_recognition
-- Firebase Admin SDK
+- windows or linux
 - Visual Studio
+- Firebase
+- Internet
 
 ## Sample Output
 
