@@ -8,6 +8,7 @@ This project implements face recognition with real-time capabilities using pytho
 
 ## Requirements
 
+- PC or Laptop
 - Web Cam
 - Python 3.7 or higher
 - OpenCV
