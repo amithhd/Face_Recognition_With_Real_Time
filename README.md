@@ -13,7 +13,7 @@ This project implements face recognition with real-time capabilities using pytho
 - Python 3.7 or higher
 - windows or linux
 - Visual Studio
-- Firebase
+- Firebase Account
 - Internet
 
 ## Sample Output
