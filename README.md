@@ -6,6 +6,9 @@
 
 This project implements face recognition with real-time capabilities using python, Opencv. It utilizes Python 3.7, higherOpenCV, cvzone, numpy, face_recognition, Firebase Admin SDK to achieve accurate and efficient face recognition in real-time scenarios.
 
+![0](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/f8232ec9-1150-4132-b582-4430a495008b)
+
+
 ## Requirements
 
 - PC or Laptop
