@@ -15,4 +15,5 @@ This project implements face recognition with real-time capabilities using pytho
 - numpy
 - face_recognition
 - Firebase Admin SDK
+- Visual Studio 
 
