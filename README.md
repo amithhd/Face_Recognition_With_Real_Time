@@ -17,9 +17,6 @@ This project implements face recognition with real-time capabilities using pytho
 - Firebase Admin SDK
 - Visual Studio
 
-## Visual 1
-
-https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/a08e6144-758c-4449-a532-b544109c33bc
 
 ## Installation
 
