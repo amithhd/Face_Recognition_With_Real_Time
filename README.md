@@ -4,13 +4,18 @@
 
 ## Description
 
-This project implements face recognition with real-time capabilities using [insert technology/library/framework]. It utilizes [brief description of the technologies used] to achieve accurate and efficient face recognition in real-time scenarios.
+This project implements face recognition with real-time capabilities using python, Opencv. It utilizes Python 3.7, higherOpenCV, cvzone, numpy, face_recognition, Firebase Admin SDK to achieve accurate and efficient face recognition in real-time scenarios.
 
 ## Features
 
 - Real-time face detection
-- Face recognition using [algorithm/library]
-- [Any other relevant features]
+- Face recognition using python
+- Python 3.7 or higher
+- OpenCV
+- cvzone
+- numpy
+- face_recognition
+- Firebase Admin SDK
 
 ## Installation
 
