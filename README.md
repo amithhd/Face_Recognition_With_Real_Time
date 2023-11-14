@@ -19,7 +19,7 @@ This project implements face recognition with real-time capabilities using pytho
 
 ## Sample Output
 
-<img width="60" alt="1" src="https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/cb6cca6b-142a-4666-a9b5-1dd64c9f5aa5">
+<img width="660" alt="1" src="https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/cb6cca6b-142a-4666-a9b5-1dd64c9f5aa5">
 
 <img width="660" alt="2" src="https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/46158c52-e7f6-490d-b56f-93f3d634d0a6">
 
