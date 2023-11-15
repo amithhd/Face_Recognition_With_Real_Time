@@ -33,7 +33,7 @@ This project implements face recognition with real-time capabilities using pytho
 
 ###output 1
 <h1 align="center">![ezgif com-crop (1)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/a745542a-9309-4cb2-8c57-193127b32d53)</h1>
-
+![ezgif com-crop (1)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/8b8f64a6-b1d0-4542-89d2-81d68e2d27ae)
 ###output 2
 <h1 align="center">![ezgif com-crop (2)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/0c21d36f-5329-4236-8306-6a1598462b94)</h1>
 
