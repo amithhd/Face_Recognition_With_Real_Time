@@ -64,5 +64,4 @@ Finally, install this module from pypi using `pip3` (or `pip2` for Python 2):
 pip3 install face_recognition
 ```
 
-![Untitled video - Made with Clipchamp (1)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/5a2973fb-826f-473a-9c62-dcd62584f25a)
 
