@@ -40,9 +40,13 @@ This project implements face recognition with real-time capabilities using pytho
 
 #### Installing on Mac or Linux
 
-First, make sure you have dlib already installed with Python bindings:
+First, make sure you have already installed with Python :
 
   * [How to install dlib from source on macOS or Ubuntu](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)
+
+Second, make sure you to install the PyCharm:
+
+  * PyCharm Download Link ===>> [click here](https://www.jetbrains.com/pycharm/download/?section=windows)
   
 Then, make sure you have cmake installed:  
  
