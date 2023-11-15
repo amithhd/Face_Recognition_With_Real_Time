@@ -8,9 +8,6 @@ This project implements face recognition with real-time capabilities using pytho
 
 ![0](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/29f06475-9f35-45aa-8eb2-7001edd022d7)
 
-![Untitled video - Made with Clipchamp (2)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/9d90f0ee-9583-4cf7-abfd-c7ab87dd379b)
-![Untitled video - Made with Clipchamp (1)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/6b575211-315c-43b1-bbbe-7fe3aa41b7e8)
-
 ## Requirements
 
 - PC or Laptop
@@ -67,5 +64,5 @@ Finally, install this module from pypi using `pip3` (or `pip2` for Python 2):
 pip3 install face_recognition
 ```
 
-
+![Untitled video - Made with Clipchamp (1)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/5a2973fb-826f-473a-9c62-dcd62584f25a)
 
