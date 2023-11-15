@@ -65,4 +65,6 @@ Finally, install this module from pypi using `pip3` (or `pip2` for Python 2):
 pip3 install face_recognition
 ```
 
+## Future Plan
 
+The future plan is to improve the recognition rate when there are unintentional changes in a person like tonsuring head, using scarf, beard. The barcode of a particular subject will be displayed on the projector which will change every 10 seconds to avoid proxy attendance. The student needs to scan the barcode and capture the photo within 10 seconds or the barcode will expire. This will prevent other students from capturing the photo of barcode and sending it to their colleagues to mark the attendance.
