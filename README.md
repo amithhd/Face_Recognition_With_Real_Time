@@ -31,7 +31,7 @@ This project implements face recognition with real-time capabilities using pytho
 ## GIF Out View Sample
 
 
-<h1 align="center">![Untitled video - Made with Clipchamp](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/2dffd5b9-1b9d-498c-a4cb-450cec215a81) ![Untitled video - Made with Clipchamp (1)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/5a2973fb-826f-473a-9c62-dcd62584f25a)</h1>
+![Untitled video - Made with Clipchamp](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/2dffd5b9-1b9d-498c-a4cb-450cec215a81) ![Untitled video - Made with Clipchamp (1)](https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/5a2973fb-826f-473a-9c62-dcd62584f25a)
 
 
 ## Installation
