@@ -1,4 +1,4 @@
-# Face Recognition with Real-Time
+# Face Recognition with Real Time
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -36,6 +36,13 @@ This project implements face recognition with real-time capabilities using pytho
 <p align="center">
     <img width="660" src="https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/5a2973fb-826f-473a-9c62-dcd62584f25a" alt="sample1">
 </p>
+
+## Real Time Database
+
+Developing a real-time face recognition system involves integrating cutting-edge facial recognition algorithms with a live camera feed. By establishing a seamless connection to a Firebase real-time database, the system can dynamically upload scanned faces, ensuring efficient storage in the database along with simultaneous attendance updates. As individuals are recognized in real-time, their corresponding photos are stored securely in Firebase storage, providing a comprehensive solution for accurate attendance tracking. This innovative system ensures that face recognition, database interaction, and attendance updates occur seamlessly and concurrently, enhancing efficiency and reliability in various applications.
+
+<h1 align="center"><img width="660" alt="database" src="https://github.com/amithhd/Face_Recognition_With_Real_Time/assets/103755649/489f48c3-738b-42a7-a22a-6a0f17290668"></h1>
+
 ## Installation
 
 ### Requirements
