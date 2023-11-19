@@ -77,7 +77,7 @@ while True:
                 # print("Known Face is Detected")
                 # print(studentIds[matchIndex])
 
-                # bounding BOX around face
+                # building BOX around face
                 y1, x2, y2, x1 = faceLoc
                 y1, x2, y2, x1 = y1*4, x2*4, y2*4, x1*4
                 bbox = 55+x1, 162+y1, x2-x1, y2-y1
